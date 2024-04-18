@@ -12,12 +12,12 @@
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6823962799"
+            "value": "1723021883"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6823962799"
+            "value": "1723021883"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
